@@ -1,0 +1,11 @@
+django==3.1
+djangorestframework
+psycopg2
+requests
+drfpasswordless
+django-cors-headers
+Pillow
+pytz
+django-push-notifications
+firebase-admin
+django-cors-headers
